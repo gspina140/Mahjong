@@ -7,10 +7,12 @@ The project consists in the implementation of the well-known game Mahjong, devel
 
 To execute the application, with all the dependencies installed, follow the next instructions:
 1. Under the 'src/' directory, to compile the code run 
-'''sh
+```sh
 make
-''' 
+```
 2. In the same directory to execute run 
-'''sh
+```sh
 ./mahjong
-'''    
+``` 
+
+![preview](img/mahjong.png) 
